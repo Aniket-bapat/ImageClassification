@@ -108,7 +108,7 @@ Input images are resized to **128 × 128 pixels** and normalized before being pa
 
 Try the deployed application here:
 
-🚀 [Open Image Classification App] (https://imageclassification-njtqzwge6yxuspxuo5a7qy.streamlit.app/)
+🚀: [Open Image Classification App](https://imageclassification-njtqzwge6yxuspxuo5a7qy.streamlit.app/)
 
 ## 📌 Future Improvements
 
